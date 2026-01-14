@@ -67,7 +67,7 @@ python -m src.user_query
 ```
 Data will be stored in:
 ````
-./data/ → scraped Markdown files
+./temporomandibular-disorders.md/ → scraped Markdown files
 
 ./chroma/chroma_store/ → vector database
 
